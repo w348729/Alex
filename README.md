@@ -31,7 +31,7 @@
 <br />
 
 
-### 📕 Github Activities
+### 📕 Github Activities (Coming Soon)
 
 <!--START_SECTION:activity-->
 
@@ -41,14 +41,12 @@
 
 ---
 
-### 📺 Coming Soon
+### 📺 My Collections
 
 <!-- YOUTUBE:START -->
 - [Leetcode](https://github.com/chefyuan/algorithm-base)
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
-- [⭐ BONUS: STACKr News Shorts - How To Accept Payments With Stripe](https://www.youtube.com/watch?v=dOnI3CtvFD4)
-- [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU)
-- [⭐ BONUS: STACKr News Shorts - Tailwind Just in Time Tutorial](https://www.youtube.com/watch?v=CGVWCcwVrfU)
+- [My Sketch](./image/my_sketch)
+
 <!-- YOUTUBE:END -->
 
 <!-- <details>
@@ -58,14 +56,13 @@
 
 <!--END_SECTION:activity-->
 
-</details>
+---
+### Summary
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!-- <summary>:zap: GitHub Stats</summary> -->
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="alex GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=w348729&show_icons=true&hide_border=true&theme=tokyonight" />
 
-</details>
 
 [linkedin]: https://www.linkedin.com/in/wangruixue-014b26147/
 [wechat]: /image/wechat_qrcode.jpeg
