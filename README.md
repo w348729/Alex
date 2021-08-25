@@ -1,18 +1,15 @@
 ### Yoo, I'm Alex, from China 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 
 ## Nice To Meet You
 
 - 🔭 I'm a python developer, this is my favorite lang
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything (terraform & GO Lang) 🤣
 - ⚡ Fun fact: I love to draw and play badminton
 - 🥅 2021 Goals: Being stronger, drawing more 
 
 ---
-### Connect with me:
+### How To Reach Me:
 [<img alt="wechat" style="border-radius:10%;margin:5px" height="40" src="./image/wechat_qrcode.jpeg" />][wechat]
 [<img alt="linkedin" style="border-radius:10%;margin:5px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
@@ -47,7 +44,7 @@
 ### 📺 Coming Soon
 
 <!-- YOUTUBE:START -->
-- [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
+- [Leetcode](https://github.com/chefyuan/algorithm-base)
 - [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
 - [⭐ BONUS: STACKr News Shorts - How To Accept Payments With Stripe](https://www.youtube.com/watch?v=dOnI3CtvFD4)
 - [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU)
