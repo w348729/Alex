@@ -44,7 +44,8 @@
 ### 📺 My Collections
 
 <!-- YOUTUBE:START -->
-- [Leetcode](https://github.com/chefyuan/algorithm-base)
+- [Doc](https://github.com/chefyuan/algorithm-base)
+- [Questions](https://github.com/ConyYang/LeetCode_InterviewQuestions_Python)
 - [My Sketch](./image/my_sketch)
 
 <!-- YOUTUBE:END -->
